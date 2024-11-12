@@ -8,9 +8,9 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style = {{fontSize: 50}}>결과 : {number}</Text>
-      <View style= {{flexDirection:"row"}}>
-        <Button title='증가'></Button>
-        <Button title='감소'></Button>
+      <View style= {{flexDirection:"row" , gap:10}}>
+        <Button title='증가' onPress={() => setNumber(number+1)}></Button>
+        <Button title='감소' onPress={() => setNumber(number-1)}></Button>
       </View>
       <StatusBar style="auto" />
     </View>
