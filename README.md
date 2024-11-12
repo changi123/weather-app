@@ -10,5 +10,4 @@
 
 # 2024.11.12
 1. 터치 시 숫자 증가 감소 테스트 완료
-2. 
-<img src="https://github.com/user-attachments/assets/30c06432-8cd8-41ee-8185-a874d83c786f"  width="500" heigth = "500"  />
+<img src="https://github.com/user-attachments/assets/30c06432-8cd8-41ee-8185-a874d83c786f"  width="300" heigth = "300"  />
