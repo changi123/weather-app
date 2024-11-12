@@ -10,3 +10,5 @@
 
 # 2024.11.12
 1. 터치 시 숫자 증가 감소 테스트 완료
+2. 
+<img src="[https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a](https://github.com/user-attachments/assets/71aa7c44-9290-4adf-9b69-05eccc11ee06)"  width="500" heigth = "500"  />
