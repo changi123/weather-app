@@ -1,10 +1,17 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { useState } from 'react';
+import { StyleSheet, Text, View, Button } from 'react-native';
 
 export default function App() {
+  const [number,setNumber] = useState(0);
+
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text style = {{fontSize: 50}}>결과 : {number}</Text>
+      <View style= {{flexDirection:"row"}}>
+        <Button title='증가'></Button>
+        <Button title='감소'></Button>
+      </View>
       <StatusBar style="auto" />
     </View>
   );
