@@ -13,7 +13,7 @@
 
 # 24.11.13
 ## 위치 허용 + 허용 시 내 현재 위치 가져오기 완료
-<div style="display: flex;">
-  <img src="https://github.com/user-attachments/assets/55a33cce-b483-4086-a719-d47502e39d5b" width="360" height="720"  margin-right: 10px/>
+<div style="display: flex; gap: 10px; " >
+  <img src="https://github.com/user-attachments/assets/55a33cce-b483-4086-a719-d47502e39d5b" width="360" height="720"/>
   <img src="https://github.com/user-attachments/assets/72a443bf-34c9-4393-99e6-b155b3abd83c" width="360" height="720" />
 </div>
