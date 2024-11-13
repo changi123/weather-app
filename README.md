@@ -12,6 +12,7 @@
 <img src = "https://github.com/user-attachments/assets/a198d18e-aacb-4838-b6e2-2f4c6fb51767" width = 360 height= 720 />
 
 <br/>
+
 # 24.11.13
 ## 위치 허용 + 허용 시 내 현재 위치 가져오기
 <div style="display: flex;">
