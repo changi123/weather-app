@@ -8,6 +8,6 @@
 <br/>
 
 # 24.11.12
-## expo 어플로 내 핸드폰에 동기화 시켜서 강의 디자인 해보기 완료
+## expo 어플로 내 핸드폰에 동기화 시켜서 강의 디자인 해보기 완료 ( 밑에는 실제 핸드폰 화면 ) 
 <img src = "https://github.com/user-attachments/assets/a198d18e-aacb-4838-b6e2-2f4c6fb51767" width = 360 height= 720 />
 
